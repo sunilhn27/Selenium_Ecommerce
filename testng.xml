@@ -9,10 +9,15 @@
 			<!-- <class name="TestCases.Testlogin" /> -->
 			<!-- <class name="TestCases.ContactTest" /> -->
 			<!-- <class name="TestCases.LoginAsSunil" /> -->
-			<class name="TestCases.TestBuy" />
+			<!-- <class name="TestCases.TestBuy" /> -->
+			<class name="TestCases.LoginAsSunil" />
+			<class name="TestCases.Search" />
+
+
 			<!-- <class name="TestCases.Checkinformation" /> -->
 
 			<!-- <class name="TestCases.RegisterTest" /> -->
+			
 
 		</classes>
 	</test> <!-- Test -->

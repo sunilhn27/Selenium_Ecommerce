@@ -1,6 +1,9 @@
-TestCases\ContactTest.class
+TestCases\Search.class
 TestCases\Testlogin.class
+TestCases\Launch.class
 TestCases\Checkinformation.class
+TestCases\Close.class
+TestCases\ContactTest.class
 TestCases\LoginAsSunil.class
 TestCases\RegisterTest.class
 TestCases\TestBuy.class

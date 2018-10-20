@@ -6,13 +6,13 @@
   </listeners>
   <test name="Test(failed)">
     <classes>
-      <class name="TestCases.ContactTest">
+      <class name="TestCases.Search">
         <methods>
           <include name="teardown"/>
+          <include name="search"/>
           <include name="setup"/>
-          <include name="contact" invocation-numbers="0"/>
         </methods>
-      </class> <!-- TestCases.ContactTest -->
+      </class> <!-- TestCases.Search -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
